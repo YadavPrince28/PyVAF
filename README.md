@@ -24,7 +24,7 @@ the NVD CVE database, and generates professional PDF reports.
 |------------|-----------------------------------|
 | GUI        | CustomTkinter                     |
 | Backend    | Flask (REST API)                  |
-| Database   | SQLite + SQLAlchemy               |
+| Database   | SQLAlchemy                        |
 | Port scan  | python-nmap                       |
 | Web scan   | requests, BeautifulSoup4          |
 | SSL check  | ssl, cryptography                 |
