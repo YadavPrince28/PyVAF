@@ -66,4 +66,4 @@ class VAFApp(ctk.CTk):
             if name == "History":
                 self.pages["History"]._load_history()
             if name == "Reports":
-                self.pages["Reports"]._load_report_list()
+                self.pages["Reports"]._load_reports()
